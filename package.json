@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-"start": "chmod +x ./node_modules/.bin/json-server && json-server --watch db.json --port 3002"  },
+    "start": "npx json-server --watch db.json --port 3002"  },
   "keywords": [],
   "author": "",
   "license": "ISC",
